@@ -1,3 +1,4 @@
+![Uploading 0v17x7vif8971.png…]()
 # Detailed Installation Guide for OPI on Ubuntu 22.04
 
 ## Installing & Running bitcoind
